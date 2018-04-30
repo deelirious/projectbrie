@@ -23,7 +23,7 @@ It also discusses the memory of the application and how the memorized data can b
 
 ### Getting the artwork
 The artwork will be retrieved using the clients website, arteditions.org. When a new artwork is requested the application will send a request to the clients php server with a injected random 4 digit nummer between 1000...2000 acting as the ID of the artwork. 
-This is the link we use: http://arteditions.org/scripts/php/getdetail.php?view=artworks&id=*[injection]*
+This is the link we use: http://arteditions.org/scripts/php/getdetail.php?view=artworks&id=[injection]
 The clients server responds with information about that ID.
 
 **The information retrieved is:**
