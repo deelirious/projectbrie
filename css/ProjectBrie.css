@@ -18,6 +18,11 @@ html, body {
 
 body {
     overflow: hidden;
+    background-image: url("../img/brie.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: 100% auto;
+    background-size: 100% auto;
+    background-color: #FFFCF9;
 }
 
 /* Wrapper with padding */
