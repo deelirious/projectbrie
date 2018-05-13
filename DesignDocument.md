@@ -46,6 +46,10 @@ Inorder to get the artwork we desire, it is possible to format the request by us
 For instance, if the user likes artworks with the description "Love", this can be saved in a cookie and be used to filter through the artworks to retrieve another artwork similar to the artwork that the user liked.
 
 ### Fragments
+
++ each artwork will be divided into 4 fragments
++ all fragments from all artworks have to be the same size and shape (square)
+
 We now know how to retrieve an artwork and how to filter artworks to retrieve a liked artwork. 
 But how do we visualize only a part of this artwork, and how do we make sure that the application remembers what artworks we're displaying the user? Hint.. Cookies ^.^, To be continued.....
 
@@ -54,3 +58,9 @@ But how do we visualize only a part of this artwork, and how do we make sure tha
 
 
 ## Open Questions
+
++ Sizing of the images
++ Will the artwork screen be square? If so, what do we do with artwork that is rectangle or circle shaped?
++ How many swipes are required to be matched with an image?
++ Does the artwork type / edition need to be included with information?
++ In 'Explore', when artwork is displayed, do we add information as a hover tooltip/info button/simply text under artwork/make image into a link?
