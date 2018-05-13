@@ -89,3 +89,5 @@ o	As the application is intended for entertainment and there is no need to track
 + How many swipes are required to be matched with an image?
 + Does the artwork type / edition need to be included with information?
 + In 'Explore', when artwork is displayed, do we add information as a hover tooltip/info button/simply text under artwork/make image into a link?
+- Review button? That reviews all the images one has liked with links
+- Back button if we have the review button
