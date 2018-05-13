@@ -56,6 +56,32 @@ But how do we visualize only a part of this artwork, and how do we make sure tha
 
 ## MoSCoW Analysis
 
+Must
+
+
+•	User must be able to swipe right and left to respectively like and dislike the image
+•	Application must display an artwork after a number of swipes
+•	Final artwork should display Artist name, Artwork name, Year and link to the artwork in the gallery
+•	‘Explore’ gets a random image from the art gallery 
+Should
+
+•	The artwork that is displayed after swiping should be matched with the artwork from which most fragments are ‘liked’
+•	Function to ‘love’ a fragment to indicate greater interest
+•	Until a workaround is found, fragment game disabled on web version
+Could
+
+•	Artwork could be matched by unifying characteristic such as mood, style, colour
+•	Option to find out the artwork fragment belongs to without completing the swipes
+•	Discover option to be presented with a random artwork from the gallery
+•	Larger fragments could be displayed in the web version
+Won’t
+
+•	No log-in
+o	As the application is intended for entertainment and there is no need to track the user
+
+
+
+
 
 ## Open Questions
 
