@@ -10,7 +10,9 @@
 }
 
 .buttons_container {
-    position: center;
+    position: relative;
+    margin-left: 20%;
+    font-color: white;
 }
 .play_button
 {
