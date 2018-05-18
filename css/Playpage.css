@@ -2,7 +2,7 @@
 {
     text-align: center;
     text-decoration: none;
-    color: #2B303A;
+    color: #FFFFFF;
     font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
     font-size: 20;
     padding: 10px;
@@ -18,11 +18,9 @@ html, body {
 
 body {
     overflow: hidden;
-    background-image: url("../img/brie.jpg");
-    background-repeat: no-repeat;
     -webkit-background-size: 100% auto;
     background-size: 100% auto;
-    background-color: #FFFCF9;
+    background-color: #111111;
 }
 
 /* Wrapper with padding */

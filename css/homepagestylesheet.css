@@ -8,3 +8,22 @@
     width: 80%;
     margin: 3% auto;
 }
+
+.buttons_container {
+    position: center;
+}
+.play_button
+{
+    background-color: white;
+    margin: 0.2%;
+    padding: 25px;
+    border-radius: 50%;
+    font-color: black;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+
+
+}
+
+body {
+    background-color: ghostwhite;
+}
